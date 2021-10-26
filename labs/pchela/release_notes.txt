@@ -1,0 +1,131 @@
+
+-----------------------
+bee-box - Release notes
+-----------------------
+
+v1.6
+****
+
+Release date: 2/11/2014
+
+bWAPP version: 2.2
+
+New features:
+
+- Vulnerable Drupal installation (Drupageddon)
+
+Bug fixes: /
+
+Modifications: /
+
+
+v1.5
+****
+
+Release date: 27/09/2014
+
+bWAPP version: 2.1
+
+New features:
+
+- CGI support (Shellshock ready)
+
+Bug fixes: /
+
+Modifications: /
+
+
+v1.4
+****
+
+Release date: 12/05/2014
+
+bWAPP version: 2.0
+
+New features:
+
+- Lighttpd web server installed, running on port TCP/9080 and TCP/9443
+- PHP SQLite module installed
+- SQLiteManager 1.2.4 installed
+- Vulnerable bWAPP movie network service (BOF) 
+
+Bug fixes: /
+
+Modifications: /
+
+
+v1.3
+****
+
+Release date: 19/04/2014
+
+bWAPP version: 1.9+
+
+New features:
+
+- Nginx web server installed, running on port TCP/8080 and TCP/8443
+- Nginx web server configured with a vulnerable OpenSSL version (heartbleed vulnerability)
+- Insecure distcc (a fast, free distributed C/C++ compiler)
+- Insecure NTP configuration
+- Insecure SNMP configuration
+- Insecure VNC configuration
+
+Bug fixes:
+
+- bWAPP update script checks for Internet connectivity
+
+Modifications: /
+
+
+v1.2
+****
+
+Release date: 22/12/2013
+
+bWAPP version: 1.8
+
+New features:
+
+- Apache modules enabled: rewrite, include, headers, dav, action
+- Apache server-status directive enabled
+- Insecure anonymous FTP configuration
+- Insecure WebDAV configuration
+- Server-Side Includes configuration
+- Vulnerable PHP CGI configuration
+
+Bug fixes: /
+
+Modifications:
+
+- MySQL listening on 0.0.0.0
+- New bWAPP update script
+
+
+v1.1
+****
+
+Release date: 12/09/2013
+
+bWAPP version: 1.5
+
+New features:
+
+- bWAPP update script
+
+Bug fixes: /
+
+Modifications: /
+
+
+v1.0
+****
+
+Release date: 15/07/2013
+
+bWAPP version: 1.4
+
+New features: /
+
+Bug fixes: /
+
+Modifications: /
